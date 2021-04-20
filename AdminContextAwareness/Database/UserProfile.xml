@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserProfile>
+  <User>
+    <Name>Burak</Name>
+    <Surname>Şaylı</Surname>
+    <Phone>1234</Phone>
+    <Area1>Shipping</Area1>
+    <Area2>Captain</Area2>
+    <Area3>ASD</Area3>
+    <CommunityID>5</CommunityID>
+  </User>
+  <User>
+    <Name>Buğra</Name>
+    <Surname>Şaylı</Surname>
+    <Phone>+370646641038</Phone>
+    <Area1>IT</Area1>
+    <Area2>Java</Area2>
+    <Area3>C#</Area3>
+    <CommunityID>2</CommunityID>
+  </User>
+</UserProfile>

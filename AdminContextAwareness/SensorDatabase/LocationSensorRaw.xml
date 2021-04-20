@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocationSensor>
+  <Location>
+    <WifiBox1>27</WifiBox1>
+    <WifiBox2>14</WifiBox2>
+    <WifiBox3>7</WifiBox3>
+    <LocationX>0,666666666666667</LocationX>
+    <LocationY>9,33333333333333</LocationY>
+  </Location>
+</LocationSensor>

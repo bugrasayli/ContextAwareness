@@ -1,0 +1,15 @@
+C:\Users\bugra\Dropbox\My PC (DESKTOP-4B177VT)\Desktop\Project\AdminContextAwareness\AdminContextAwareness\bin\Debug\AdminContextAwareness.exe.config
+C:\Users\bugra\Dropbox\My PC (DESKTOP-4B177VT)\Desktop\Project\AdminContextAwareness\AdminContextAwareness\bin\Debug\AdminContextAwareness.exe
+C:\Users\bugra\Dropbox\My PC (DESKTOP-4B177VT)\Desktop\Project\AdminContextAwareness\AdminContextAwareness\bin\Debug\AdminContextAwareness.pdb
+C:\Users\bugra\Dropbox\My PC (DESKTOP-4B177VT)\Desktop\Project\AdminContextAwareness\AdminContextAwareness\obj\Debug\AdminContextAwareness.csprojAssemblyReference.cache
+C:\Users\bugra\Dropbox\My PC (DESKTOP-4B177VT)\Desktop\Project\AdminContextAwareness\AdminContextAwareness\obj\Debug\AdminContextAwareness.Form1.resources
+C:\Users\bugra\Dropbox\My PC (DESKTOP-4B177VT)\Desktop\Project\AdminContextAwareness\AdminContextAwareness\obj\Debug\AdminContextAwareness.Properties.Resources.resources
+C:\Users\bugra\Dropbox\My PC (DESKTOP-4B177VT)\Desktop\Project\AdminContextAwareness\AdminContextAwareness\obj\Debug\AdminContextAwareness.csproj.GenerateResource.cache
+C:\Users\bugra\Dropbox\My PC (DESKTOP-4B177VT)\Desktop\Project\AdminContextAwareness\AdminContextAwareness\obj\Debug\AdminContextAwareness.csproj.CoreCompileInputs.cache
+C:\Users\bugra\Dropbox\My PC (DESKTOP-4B177VT)\Desktop\Project\AdminContextAwareness\AdminContextAwareness\obj\Debug\AdminContextAwareness.exe
+C:\Users\bugra\Dropbox\My PC (DESKTOP-4B177VT)\Desktop\Project\AdminContextAwareness\AdminContextAwareness\obj\Debug\AdminContextAwareness.pdb
+C:\Users\bugra\Dropbox\My PC (DESKTOP-4B177VT)\Desktop\Project\AdminContextAwareness\AdminContextAwareness\bin\Debug\AdminContextAwareness.exe.manifest
+C:\Users\bugra\Dropbox\My PC (DESKTOP-4B177VT)\Desktop\Project\AdminContextAwareness\AdminContextAwareness\bin\Debug\AdminContextAwareness.application
+C:\Users\bugra\Dropbox\My PC (DESKTOP-4B177VT)\Desktop\Project\AdminContextAwareness\AdminContextAwareness\obj\Debug\AdminContextAwareness.exe.manifest
+C:\Users\bugra\Dropbox\My PC (DESKTOP-4B177VT)\Desktop\Project\AdminContextAwareness\AdminContextAwareness\obj\Debug\AdminContextAwareness.application
+C:\Users\bugra\Dropbox\My PC (DESKTOP-4B177VT)\Desktop\Project\AdminContextAwareness\AdminContextAwareness\obj\Debug\AdminContextAwareness.csproj.ResolveComReference.cache

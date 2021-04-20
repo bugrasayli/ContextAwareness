@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Community>
+   <VU>
+    <id>1</id>
+      <name>Vilnius University</name>
+     
+    </VU>
+	
+   <KTU>
+   <id>2</id>
+     <name>Kaunas Technology University</name>
+      
+   </KTU>
+
+	<KTU>
+	<id>3</id>
+     <name>Klaipeda University</name>
+      
+   </KTU>
+
+	<VDU>
+	<id>4</id>
+     <name>Vytautas Magnus University</name>
+     
+   </VDU>
+	
+	<VGTU>
+	<id>5</id>
+    <name>Vilnius Gediminas Technical University</name>
+      
+   </VDU>
+
+</contact-info>

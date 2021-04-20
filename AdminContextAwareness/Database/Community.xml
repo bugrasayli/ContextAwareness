@@ -1,0 +1,23 @@
+﻿<Community>
+  <University>
+    <id>1</id>
+    <name>Vilnius University</name>
+  </University>
+  <University>
+    <id>2</id>
+    <name>Kaunas Technology University</name>
+  </University>
+  <University>
+    <id>3</id>
+    <name>Klaipeda University</name>
+  </University>
+  <University>
+    <id>4</id>
+    <name>Vytautas Magnus University</name>
+  </University>
+  <University>
+    <id>5</id>
+    <name>Vilnius Gediminas Technical University</name>
+  </University>
+
+</Community>
